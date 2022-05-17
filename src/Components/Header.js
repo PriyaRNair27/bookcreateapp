@@ -19,6 +19,10 @@ const Header = () => {
         
         <Link class="nav-link" to="/search" >Search book</Link>
         </li>
+        <li class="nav-item">
+        
+        <Link class="nav-link" to="/view" >View book</Link>
+        </li>
         
       </ul>
     </div>
