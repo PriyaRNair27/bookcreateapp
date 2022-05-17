@@ -14,7 +14,7 @@ function App() {
 <Routes>
   <Route path="/" exact element={<Addbook/>}/>
   <Route path="/search" exact element={<Searchbook/>}/>
-  <Route path="/view" exact element={<Viewbook/>}/>
+  <Route path="/view" exact eliement={<Viewbook/>}/>
 </Routes>
 
 </BrowserRouter>
